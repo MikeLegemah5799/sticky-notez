@@ -1,0 +1,26 @@
+{
+  "name": "stickynotez",
+  "version": "1.0.0",
+  "description": "Application built with Flux and React.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Legemah",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "^3.9.1",
+    "object-assign": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
